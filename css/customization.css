@@ -1,0 +1,10 @@
+.register-img{
+    background-image: url(../img/register-bg.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+* {
+    font-family: 'Rubik', sans-serif;
+}
