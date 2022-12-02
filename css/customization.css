@@ -8,3 +8,16 @@
     background-repeat: repeat;
     background-size: cover;
 }
+
+.fs-60{
+    font-size: 60px;
+}
+
+.mohirdev-f-color{
+    color: #2d4359;
+}
+
+.p-r{
+    position: relative;
+    margin-top: 10px;
+}
