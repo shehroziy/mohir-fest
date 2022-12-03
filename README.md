@@ -1,2 +1,2 @@
 # Python telegram bot
-<p>WikiPedia bot</p>
+<img src="img/python.webp" width=500px>
