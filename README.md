@@ -1,3 +1,1 @@
 # Mohir Fest
-i
-k
